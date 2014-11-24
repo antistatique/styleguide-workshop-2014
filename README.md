@@ -47,7 +47,7 @@ WORKSHOP WS48 ERACOM – Styleguide web
 | Taylor Diggelmann | D |
 | Lauren Thiel | D |
 | Emmanuelle Kohli | E |
-| Gawen Michaudet | E |
+| Gawen Michaudet | [Weega] (https://github.com/Weega/) | E |
 | Yohan Nieto | E |
 
 ## Groupes et sujet
