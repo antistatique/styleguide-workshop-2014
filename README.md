@@ -46,7 +46,7 @@ WORKSHOP WS48 ERACOM – Styleguide web
 | Chloé Jelk | D |
 | Taylor Diggelmann | D |
 | Lauren Thiel | D |
-| Emmanuelle Kohli | E |
+| Emmanuelle Kohli | [kumo-e](https://github.com/kumo-e/)| E |
 | Gawen Michaudet | E |
 | Yohan Nieto | E |
 
