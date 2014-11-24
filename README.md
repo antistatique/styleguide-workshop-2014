@@ -31,13 +31,13 @@ WORKSHOP WS48 ERACOM – Styleguide web
 - Connaissance de Bootstrap 3
 
 ## Participants
-| Prénom, Nom | Groupe |
-| ------------ |:-----:|
+| Prénom, Nom | Github username | Groupe |
+| ------------ |:-----:|:-----:|
 | Maya Beeler | A |
 | Tanaquil Berger | A |
 | Benjamin Régis | A |
 | Laura Gardel | B |
-| Alexine Bruttin | B |
+| Alexine Bruttin | [zufrieden](http://www.github.com/zufrieden) | B |
 | Raphaël Carruzzo | B |
 | Julian Zimmermann | B |
 | Eva Hugi | C |
