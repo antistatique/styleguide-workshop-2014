@@ -31,20 +31,19 @@ WORKSHOP WS48 ERACOM – Styleguide web
 - Connaissance de Bootstrap 3
 
 ## Participants
-| Prénom, Nom | Groupe |
-| ------------ |:-----:|
-<<<<<<< HEAD
+| Prénom, Nom | Github username | Groupe |
+| ------------ |:-----:|:-----:|
 | Maya Beeler | [mbeeler1](https://github.com/mbeeler1/styleguide-workshop-2014/edit/master/README.md) | A |
 | Tanaquil Berger | [tcobain](https://github.com/tcobain) | A |
 | Benjamin Régis | [Benjaminregis](https://github.com/Benjaminregis) | A |
 | Laura Gardel | [luersouille](https://github.com/luersouille) | B |
-| Alexine Bruttin | B |
+| Alexine Bruttin | - | B |
 | Raphaël Carruzzo | [rcarruzzo](http://github.com/rcarruzzo) | | B |
 | Julian Zimmermann | [zulianjim](http://github.com/zulianjim) | B |
-| Eva Hugi | C |
+| Eva Hugi | - | C |
 | Joana DaRocha | [joeyjody](https://github.com/joeyjody) | C |
 | Kilian Zucconi | [kzucconi](https://github.com/kzucconi) | | C |
-| Chloé Jelk | D |
+| Chloé Jelk | - | D |
 | Taylor Diggelmann | [Thecreator15](https://github.com/Thecreator15) | D |
 | Lauren Thiel | [iauren](https://github.com/iauren) | D |
 | Emmanuelle Kohli | [kumo-e](https://github.com/kumo-e)| E |
