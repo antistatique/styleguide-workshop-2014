@@ -48,7 +48,7 @@ WORKSHOP WS48 ERACOM – Styleguide web
 | Lauren Thiel | D |
 | Emmanuelle Kohli | E |
 | Gawen Michaudet | E |
-| Yohan Nieto | E |
+| Yohan Nieto | [Rcontrol] (https://github.com/Rcontrol) | E |
 
 ## Groupes et sujet
 | Groupe | Organisation | Documents Corporate |
