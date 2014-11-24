@@ -44,7 +44,7 @@ WORKSHOP WS48 ERACOM – Styleguide web
 | Joana DaRocha | C |
 | Kilian Zucconi | C |
 | Chloé Jelk | D |
-| Taylor Diggelmann | D |
+| Taylor Diggelmann | [Thecreator15](https://github.com/Thecreator15) | D |
 | Lauren Thiel | D |
 | Emmanuelle Kohli | [kumo-e](https://github.com/kumo-e)| E |
 | Gawen Michaudet | E |
