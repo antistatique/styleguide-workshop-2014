@@ -42,7 +42,7 @@ WORKSHOP WS48 ERACOM – Styleguide web
 | Julian Zimmermann | B |
 | Eva Hugi | C |
 | Joana DaRocha | C |
-| Kilian Zucconi | C |
+| Kilian Zucconi | [kzucconi](https://github.com/kzucconi) | | C |
 | Chloé Jelk | D |
 | Taylor Diggelmann | [Thecreator15](https://github.com/Thecreator15) | D |
 | Lauren Thiel | D |
