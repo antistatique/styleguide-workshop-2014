@@ -35,7 +35,7 @@ WORKSHOP WS48 ERACOM – Styleguide web
 | ------------ |:-----:|
 | Maya Beeler | [mbeeler1](https://github.com/mbeeler1/styleguide-workshop-2014/edit/master/README.md) | A |
 | Tanaquil Berger | A |
-| Benjamin Régis | A |
+| Benjamin Régis | [Benjaminregis](https://github.com/Benjaminregis) | A |
 | Laura Gardel | B |
 | Alexine Bruttin | B |
 | Raphaël Carruzzo | B |
