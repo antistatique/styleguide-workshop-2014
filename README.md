@@ -8,7 +8,7 @@ WORKSHOP WS48 ERACOM – Styleguide web
 
 ## À propos du workshop
 - Classe : CM421 (cm421@eracom.ch)
-- Salle : 509
+- Salle : 505
 - Maitre principal : Gregorio Soumas, salle 415 gregorio.soumas@eracom.ch
 - Doyenne : Michaela Varin, salle 415 – michaela.varin@eracom.ch – 021 316 01 13
 - Évaluation : Chaque étudiant est noté individuellement sur son travail par les intervenants.
@@ -45,10 +45,10 @@ WORKSHOP WS48 ERACOM – Styleguide web
 | Kilian Zucconi | [kzucconi](https://github.com/kzucconi) | | C |
 | Chloé Jelk | D |
 | Taylor Diggelmann | [Thecreator15](https://github.com/Thecreator15) | D |
-| Lauren Thiel | D |
+| Lauren Thiel | [iauren](https://github.com/iauren) | D |
 | Emmanuelle Kohli | [kumo-e](https://github.com/kumo-e)| E |
 | Gawen Michaudet | E |
-| Yohan Nieto | [Rcontrol] (https://github.com/Rcontrol) | E |
+| Yohan Nieto | [Rcontrol](https://github.com/Rcontrol) | E |
 
 ## Groupes et sujet
 | Groupe | Organisation | Documents Corporate |
