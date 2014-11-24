@@ -33,22 +33,22 @@ WORKSHOP WS48 ERACOM – Styleguide web
 ## Participants
 | Prénom, Nom | Groupe |
 | ------------ |:-----:|
-| Maya Beeler | A |
+| Maya Beeler | [mbeeler1](https://github.com/mbeeler1/styleguide-workshop-2014/edit/master/README.md) | A |
 | Tanaquil Berger | A |
-| Benjamin Régis | A |
+| Benjamin Régis | [Benjaminregis](https://github.com/Benjaminregis) | A |
 | Laura Gardel | [luersouille](https://github.com/luersouille) | B |
 | Alexine Bruttin | B |
 | Raphaël Carruzzo | B |
-| Julian Zimmermann | B |
+| Julian Zimmermann | [zulianjim](http://github.com/zulianjim) | B |
 | Eva Hugi | C |
 | Joana DaRocha | C |
-| Kilian Zucconi | C |
+| Kilian Zucconi | [kzucconi](https://github.com/kzucconi) | | C |
 | Chloé Jelk | D |
-| Taylor Diggelmann | D |
+| Taylor Diggelmann | [Thecreator15](https://github.com/Thecreator15) | D |
 | Lauren Thiel | D |
-| Emmanuelle Kohli | E |
+| Emmanuelle Kohli | [kumo-e](https://github.com/kumo-e)| E |
 | Gawen Michaudet | E |
-| Yohan Nieto | E |
+| Yohan Nieto | [Rcontrol] (https://github.com/Rcontrol) | E |
 
 ## Groupes et sujet
 | Groupe | Organisation | Documents Corporate |
