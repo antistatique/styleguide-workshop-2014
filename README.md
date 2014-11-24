@@ -38,7 +38,7 @@ WORKSHOP WS48 ERACOM – Styleguide web
 | Benjamin Régis | A |
 | Laura Gardel | B |
 | Alexine Bruttin | B |
-| Raphaël Carruzzo | B |
+| Raphaël Carruzzo | [rcarruzzo](http://github.com/rcarruzzo) | | B |
 | Julian Zimmermann | B |
 | Eva Hugi | C |
 | Joana DaRocha | C |
