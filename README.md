@@ -41,7 +41,7 @@ WORKSHOP WS48 ERACOM – Styleguide web
 | Raphaël Carruzzo | B |
 | Julian Zimmermann | B |
 | Eva Hugi | C |
-| Joana DaRocha | C |
+| Joana DaRocha | [joeyjody](https://github.com/joeyjody) | C |
 | Kilian Zucconi | C |
 | Chloé Jelk | D |
 | Taylor Diggelmann | D |
