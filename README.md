@@ -39,7 +39,7 @@ WORKSHOP WS48 ERACOM – Styleguide web
 | Laura Gardel | B |
 | Alexine Bruttin | B |
 | Raphaël Carruzzo | B |
-| Julian Zimmermann | B |
+| Julian Zimmermann | [zulianjim](http://github.com/zulianjim) | B |
 | Eva Hugi | C |
 | Joana DaRocha | C |
 | Kilian Zucconi | C |
