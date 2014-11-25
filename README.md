@@ -101,7 +101,7 @@ L'évaluation est basée sur les critères ci-après. Une note est attribué pou
 Pour récupérer un styleguide : 
 
 ```
-$ git clone ....
+$ git clone https://github.com/eracom/ws48-groupe-X.git
 $ cd chemin/vers/projet/
 $ pwd
 ```
