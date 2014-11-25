@@ -95,6 +95,17 @@ L'évaluation est basée sur les critères ci-après. Une note est attribué pou
 
 ## Théorie (Sujets abordés)
 
+
+### Récupérer un projet Github
+
+Pour récupérer un styleguide : 
+
+```
+$ git clone ....
+$ bower install
+$ sudo npm install
+```
+
 ### Modular first
 - On atomic design : http://bradfrost.com/blog/post/atomic-web-design/
 - Slides : http://yago.github.io/talks/topics/modular-first.html#/
@@ -148,3 +159,7 @@ L'évaluation est basée sur les critères ci-après. Une note est attribué pou
 
 ### Holostrap
 - https://github.com/Yago/Holostrap
+
+### Twig
+- http://twig.sensiolabs.org/documentation
+- http://blog.lazycloud.net/wp-content/uploads/Twig-CheatSheet.pdf
