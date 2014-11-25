@@ -102,6 +102,13 @@ Pour récupérer un styleguide :
 
 ```
 $ git clone ....
+$ cd chemin/vers/projet/
+$ pwd
+```
+
+**Suis-je au bon endroit ?**
+
+```
 $ bower install
 $ sudo npm install
 ```
@@ -135,6 +142,10 @@ $ sudo npm install
 - https://try.github.io/levels/1/challenges/1
 - http://rogerdudler.github.io/git-guide/
 - http://danielkummer.github.io/git-flow-cheatsheet/
+
+### Sass
+- http://sass-lang.com/
+- http://sass-cheatsheet.brunoscopelliti.com/
 
 ### Bootstrap
 - http://getbootstrap.com
