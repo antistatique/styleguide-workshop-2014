@@ -1,6 +1,14 @@
 WORKSHOP WS48 ERACOM – Styleguide web
 =====================================
 
+## Résultats
+
+- [Groupe A : Styleguide Handicap International](https://eracom.github.io/ws48-groupe-A)
+- [Groupe B : Styleguide Human Rights Watch](https://eracom.github.io/ws48-groupe-B)
+- [Groupe C : Styleguide World Organisation Against Torture](https://eracom.github.io/ws48-groupe-C)
+- [Groupe D : Styleguide Médecins Sans Frontières](https://eracom.github.io/ws48-groupe-D)
+- [Groupe E : Styleguide UNICEF](https://eracom.github.io/ws48-groupe-E)
+
 ## Intervenants
 - Marc Friederich – Software designer et fondateur / Antistatique.net
 - Yann Gouffon – Frontend developer / Antistatique.net
